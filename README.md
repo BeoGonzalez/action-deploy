@@ -12,4 +12,4 @@ _____________________________________________________________________
 ## Proyecto
 Este proyecto consiste en un despligue de un código de python a través de un workflow que automatizará un código de python mío que hará auto-commit y auto-push
 utilizando:
-- `auto-commit(https://github.com/marketplace/actions/git-auto-commit)`
+- `auto-commit https://github.com/marketplace/actions/git-auto-commit`
