@@ -1,5 +1,5 @@
 # Action Deploy
-Este repositorio es para la prueba número 1 de Ingeniería DevOps en el que consiste en hacer un deploy con una estrategia de ramas
+Este repositorio es para la prueba número 1 de Ingeniería DevOps en el que consiste en hacer un deploy con una estrategia de ramas de Benjamín González
 _____________________________________________________________________
 ## Tipo de estrategia de ramificación
 Voy a utilizar la estrategia de Trunk-Based-Development porque este es un proyecto chico de poca duración y tampoco lo integra un equipo de muchos desarrolladores porque este repositorio está solamente desarrollado por mí utilizando ramas temporales llamadas:
