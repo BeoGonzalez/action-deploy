@@ -20,8 +20,3 @@ jobs:
 
       - name: Commit y Push cambios
         uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit-message: Actualizar script
-          commit-user: BeoGonzalez [Github Actions]
-          commit-user-email: beo.gonzalez@duocuc.cl
-          commit-author: El_Benja_Gonzalez
